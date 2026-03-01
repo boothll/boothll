@@ -47,5 +47,8 @@ $\color{rgb(48, 72, 110)}{\textsf{m}}\color{rgb(45, 70, 111)}{\textsf{y}}$ $\col
 <p align=center>
 <img width=540 height=7 src="https://github.com/user-attachments/assets/5a36a97a-1e31-4f29-8000-a045f3ba0c58"/>
 
-
-<a>[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bsdqj9hwvkppv42hzun2nxazy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=762323&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)</a>
+<p align="center">
+  <a href="https://github.com/boothll">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bsdqj9hwvkppv42hzun2nxazy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=762323&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" alt="Profile Views" />
+  </a>
+</p>
