@@ -23,9 +23,8 @@ $\color{rgb(42, 44, 44)}{\textsf{m}}\color{rgb(58, 61, 61)}{\textsf{y}}$ $\color
 <img width=560 height=560 src="https://github.com/user-attachments/assets/c7864dc4-8e8d-4269-8f7e-1f4737548481"/>
 </p>
 
-
 <p align="center">
-  <a href="https://github.com/boothll">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bsdqj9hwvkppv42hzun2nxazy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=762323&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" alt="Profile Views" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bsdqj9hwvkppv42hzun2nxazy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=2b2d2d&interchange=false&profanity=false&bar_color=77a498&bar_color_cover=false">
   </a>
 </p>
