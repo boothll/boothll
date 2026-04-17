@@ -20,7 +20,7 @@
 $\color{rgb(42, 44, 44)}{\textsf{m}}\color{rgb(58, 61, 61)}{\textsf{y}}$ $\color{rgb(78, 82, 83)}{\textsf{m}}\color{rgb(86, 100, 98)}{\textsf{a}}\color{rgb(109, 149, 139)}{\textsf{d}}$ $\color{rgb(114, 160, 148)}{\textsf{s}}\color{130, 167, 158)}{\textsf{c}}\color{rgb((148, 171, 165)}{\textsf{i}}\color{rgb(157, 171, 168)}{\textsf{e}}\color{rgb(180, 183, 182)}{\textsf{n}}\color{rgb(192, 193, 194)}{\textsf{t}}\color{rgb(180, 183, 182)}{\textsf{i}}\color{rgb(180, 183, 182)}{\textsf{s}}\color{rgb(148, 171, 165)}{\textsf{t}}\color{rgb(130, 167, 158)}{\textsf{!}}$
 </p>
 <p align=center>
-<img width=560 height=560 src="https://github.com/user-attachments/assets/c7864dc4-8e8d-4269-8f7e-1f4737548481"/>
+<img width=560 height=230 src="https://github.com/user-attachments/assets/c7864dc4-8e8d-4269-8f7e-1f4737548481"/>
 </p>
 
 <p align="center">
