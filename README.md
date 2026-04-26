@@ -28,7 +28,7 @@ $\color{rgb(22, 27, 39)}{\textsf{u}}$ $\color{rgb(37, 36, 51)}{\textsf{d}}\color
 </p>
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bsdqj9hwvkppv42hzun2nxazy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=2b2d2d&interchange=false&profanity=false&bar_color=77a498&bar_color_cover=false">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=bsdqj9hwvkppv42hzun2nxazy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bsdqj9hwvkppv42hzun2nxazy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=d93f41&bar_color_cover=false">
   </a>
 </p>
