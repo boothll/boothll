@@ -17,7 +17,11 @@ $\color{rgb(22, 27, 39)}{\textsf{w}}\color{rgb(37, 36, 51)}{\textsf{h}}\color{rg
 </p>
 
 <p align="center">
-  <a href="https://yingxing.atabook.org/">ata</a>ㅤㅤㅤ(≡^−ܫ−^≡)ㅤㅤㅤ<a href="https://yingxinng.carrd.co/">carrd</a>
+  <a href="https://yingxinng.carrd.co/">
+    <img src="https://github.com/user-attachments/assets/f10459ac-c389-4cde-8463-33840ac8df71" width="120" />
+  </a><a href="https://yingxing.atabook.org/">
+    <img src="https://github.com/user-attachments/assets/44bbab40-b2fb-4ee2-8733-5e8f481e9b63" width="200" />
+  </a>
 </p>
 
   <p align=center>
@@ -32,3 +36,4 @@ $\color{rgb(22, 27, 39)}{\textsf{u}}$ $\color{rgb(37, 36, 51)}{\textsf{d}}\color
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bsdqj9hwvkppv42hzun2nxazy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=d93f41&bar_color_cover=false">
   </a>
 </p>
+
